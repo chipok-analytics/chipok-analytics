@@ -32,6 +32,17 @@ Monetization vs Quality: Even though paid apps require an upfront cost, they mai
 <img width="1207" height="688" alt="Screenshot 2026-10-25 191211" src="https://github.com/user-attachments/assets/84b4138a-f5ea-43d2-98a4-4e4a8b6b414b" />
 <img width="680" height="587" alt="Screenshot 2026-10-25 191242" src="https://github.com/user-attachments/assets/ab7a8bf9-20c1-4219-8e4c-e8344af7ae11" />
 
+Featured Project 2: Financial Fraud Detection Dashboard
+Engineered an end-to-end data tracking visualization mapping transactional behaviors across 284K+ records to isolate security vulnerabilities.
+
+Key Metrics & Data Insights
+High-Volume Transaction Analysis: Modeled and analysed a large financial dataset consisting of 284,807 total transactions spanning a 2-day operating window.
+Baseline Anomaly Identification: Discovered a localised baseline anomaly rate where 0.17% (492 absolute transactions) were confirmed as fraudulent violations.
+Nocturnal Risk Spikes: Isolated a severe risk exposure pattern showing that fraud rates dramatically surge past 1.7% during the 2 AM hour block, pinpointing critical gaps in nocturnal network defense protocols.
+<img width="1216" height="677" alt="Screenshot 2026-10-25 194156" src="https://github.com/user-attachments/assets/49a70103-fcb2-446b-ae84-d0a8d10472dc" />
+<img width="1217" height="678" alt="Screenshot 2026-10-25 194238" src="https://github.com/user-attachments/assets/7088b893-5364-4574-9a26-b815a01a2149" />
+
+
 
 
 
